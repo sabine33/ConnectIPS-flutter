@@ -1,9 +1,7 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:ninja/asymmetric/rsa/rsa.dart';
 import "package:http/http.dart" as http;
-
 import 'const.dart';
 
 class ConnectIPSController {

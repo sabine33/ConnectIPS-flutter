@@ -12,7 +12,7 @@ const VERIFICATION_ID = "MER-XXX-APP-XXX";
 
 const VERIFICATION_PASSWORD = '';
 
-const CALLBACKURL = "https://hajurbuy.com/pay/via/connectips/callback";
+const CALLBACKURL = "https://website.com/pay/via/connectips/callback";
 
 const ERRORURL = "https://uat.connectips.com:7443/connectipswebgw/errorpage";
 

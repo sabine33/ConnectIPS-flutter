@@ -1,4 +1,4 @@
-# ConnectIPS integration in Flutter Apps
+# ConnectIPS integration in Flutter Apps : A Demo
 
 * Fill the necessary details in const.dart
 * Link ConnectIPSPage(txnAmt,txnDate,txnCRNCY,referenceID,remarks,particulars) via Navigator
